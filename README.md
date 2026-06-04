@@ -25,6 +25,7 @@ I'm a full-stack engineer with **18+ years of experience** building large-scale 
 
 My current focus is **agentic AI, Generative AI, and workflow automation** — applying Claude Code, Claude Skills, spec-driven development, and RAG pipelines to real production challenges. I mentor engineers, author internal standards, and drive cross-squad AI initiatives that move the needle on measurable engineering productivity.
 
+- LinkedIn: https://www.linkedin.com/in/raja-pasupuleti
 ---
 
 ## 💼 Highlights of Experience
