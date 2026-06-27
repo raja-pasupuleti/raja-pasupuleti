@@ -32,7 +32,7 @@ My current focus is **agentic AI, Generative AI, and workflow automation** — a
 
 - **9+ years** at Cox Automotive (Xtime) — Lead Software Engineer on Service Studio, Service Quoting, and Repair Order (RO) cloud applications
 - **Orion Systems Integrators** — Sr. Software Developer; delivered Xtime Service Studio, CitiRisk (Citibank), Compass group and Wells Fargo iReports trading platform
-- **IBM India** — Sr. Application Developer on Walmart Global Replenishment System (GRS) — 8 integrated microfrontend web apps using ExtJS & JSF
+- **IBM** — Sr. Application Developer on Walmart Global Replenishment System (GRS) — 8 integrated microfrontend web apps using ExtJS & JSF
 - **Melstar / Reasoning Global** — delivered enterprise solutions for ServiceMaster, MartJack e-commerce, and school communication portals
 - Consistent record of **proof-of-concept delivery**, **reusable library authorship**, and **cross-team technical leadership**
 
