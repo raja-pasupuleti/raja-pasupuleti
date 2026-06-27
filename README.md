@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 # I'm Raja Pasupuleti 👋
 
-**Lead Software Engineer · Frontend Architecture · Agentic AI**  
-Cox Automotive · Xtime · Texas, USA
+**Technical Lead · Frontend Architecture · Agentic AI · AI Generalist · Blogger**  
+Cox Automotive · Texas, USA
 
 ---
 
