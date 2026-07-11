@@ -21,20 +21,29 @@ Cox Automotive · Texas, USA
 
 ## About Me
 
-I'm a full-stack engineer with **18+ years of experience** building large-scale enterprise and SaaS applications across automotive, banking, retail, and e-commerce domains. At Cox Automotive, I lead frontend architecture for **Service Quoting and Repair Order** workflows powering franchise dealers across North America, and Canada.
+Engineering Team Lead with **18+ years of experience** delivering enterprise software, cloud platforms, and SaaS products for global organizations including **Cox Automotive, IBM, Citibank, Walmart, Wells Fargo, Compass Group, and ServiceMaster**.
 
-My current focus is **agentic AI, Generative AI, and workflow automation** — applying Claude Code, Claude Skills, spec-driven development, and RAG pipelines to real production challenges. I mentor engineers, author internal standards, and drive cross-squad AI initiatives that move the needle on measurable engineering productivity.
+My expertise spans **Java, Spring Boot, JavaScript/TypeScript, React, Angular, cloud architecture, REST APIs, distributed systems, and modern frontend engineering**. Throughout my career, I've led complex initiatives, built reusable engineering platforms, delivered proof-of-concepts, and partnered with cross-functional teams to ship high-impact products.
+
+Today, my focus is on **AI-native software engineering**—developing intelligent applications with **Generative AI, Agentic AI, RAG, LangGraph, MCP, Claude Code, and workflow automation** to accelerate software development and enhance developer productivity.
+
+I enjoy solving challenging technical problems, mentoring engineers, driving engineering excellence, and building scalable solutions that create lasting business value.
+
 
 - LinkedIn: https://www.linkedin.com/in/raja-pasupuleti
 ---
 
-## 💼 Highlights of Experience
+## 💼 Career Highlights
 
-- **9+ years** at Cox Automotive (Xtime) — Lead Software Engineer on Service Studio, Service Quoting, and Repair Order (RO) cloud applications
-- **Orion Systems Integrators** — Sr. Software Developer; delivered Xtime Service Studio, CitiRisk (Citibank), Compass group and Wells Fargo iReports trading platform
-- **IBM** — Sr. Application Developer on Walmart Global Replenishment System (GRS) — 8 integrated microfrontend web apps using ExtJS & JSF
-- **Melstar / Reasoning Global** — delivered enterprise solutions for ServiceMaster, MartJack e-commerce, and school communication portals
-- Consistent record of **proof-of-concept delivery**, **reusable library authorship**, and **cross-team technical leadership**
+### Professional Experience Summary
+
+Software engineering leader with **18+ years of experience** designing, developing, and delivering enterprise-scale web and cloud applications across automotive, banking, retail, e-commerce, and facility services industries. Proven track record of leading complex software initiatives, modernizing enterprise platforms, building reusable engineering frameworks, and driving cross-functional technical execution.
+
+* **9+ years at Cox Automotive (Xtime)** — Lead Software Engineer responsible for architecting and delivering cloud-based Service Studio, Service Quoting, and Repair Order (RO) platforms, enabling dealership service operations at enterprise scale.
+* **Orion Systems Integrators** — Senior Software Developer delivering enterprise solutions for major clients including Xtime, Citibank, Compass Group, and Wells Fargo, with a focus on full-stack application development and enterprise integrations.
+* **IBM** — Senior Application Developer for Walmart's Global Replenishment System (GRS), contributing to a suite of eight integrated microfrontend applications built with ExtJS and JSF to support large-scale retail supply chain operations.
+* **Melstar Information Technologies / Reasoning Global** — Developed enterprise applications for ServiceMaster, MartJack e-commerce platform, and school communication portals, delivering scalable business solutions across multiple industries.
+* Demonstrated history of delivering successful proof-of-concepts (PoCs), developing reusable engineering libraries and shared frameworks, mentoring engineering teams, and providing technical leadership across cross-functional and distributed teams.
 
 ---
 
