@@ -21,7 +21,7 @@ Cox Automotive · Texas, USA
 
 ## About Me
 
-Engineering Team Lead with **18+ years of experience** delivering enterprise software, cloud platforms, and SaaS products for global organizations including **Cox Automotive, IBM, Citibank, Walmart, Wells Fargo, Compass Group, and ServiceMaster**.
+Engineering Team Lead with **18+ years of experience** delivering enterprise software, cloud platforms, and SaaS products for global organizations including **Cox Automotive, Xtime, IBM, Orion** and clients including **Citibank, Walmart, ServiceMaster, Wells Fargo and Compass Group**.
 
 My expertise spans **Java, Spring Boot, JavaScript/TypeScript, React, Angular, cloud architecture, REST APIs, distributed systems, and modern frontend engineering**. Throughout my career, I've led complex initiatives, built reusable engineering platforms, delivered proof-of-concepts, and partnered with cross-functional teams to ship high-impact products.
 
@@ -72,8 +72,9 @@ Software engineering leader with **18+ years of experience** designing, developi
 ## 🎯 Current Focus Areas
 
 - **Centralized Agentic AI Knowledge Base** — Cross-squad RAG pipeline ingesting SharePoint, Rally features & unstructured docs (pgvector · LangGraph · RAGAS · MCP)
-- **Architecture Decision Records (ADRs)** — Formalizing key domain decisions for DMS+ Service as Principal-level proof artifacts
-- **Technical Roadmap** — 12–18 month roadmap for Fixed Ops frontend architecture
+- **Architecture Decision Records (ADRs)** — Formalizing key domain decisions for Current System as Principal-level proof artifacts
+- **Technical Roadmap** — LM evaluation & reliability engineering
+- Agentic and multi-step reasoning systems
 - **Certifications in progress** — Anthropic Claude AI Courses · Google AI Essentials · GitHub Copilot
 
 ---
@@ -121,16 +122,16 @@ P5 promotion hinges on written evidence, not heroic delivery.
 `Claude Code` `LangGraph` `LangChain` `RAG` `pgvector` `RAGAS` `Prompt Engineering` `CLAUDE.md`
 
 **Databases**  
-`Oracle / PL-SQL` `MS SQL Server` `MySQL` `IBM DB2`
+`Oracle / PL-SQL` `MS SQL Server` `MySQL` `PostgreSQL`
 
 **Cloud & DevOps**  
 `AWS` `Jenkins` `Maven` `Git` `Docker` `Tomcat` `JBoss` `Webpack`
 
 **Testing & Quality**  
-`JUnit` `Selenium` `Puppeteer` `HP ALM` `TDD` `Code Health Scoring`
+`JUnit` `Selenium` `Puppeteer` `Playwright` `TDD` `Code Health Scoring`
 
 **Project & Collaboration**  
-`Rally` `JIRA` `Agile / SCRUM` `VS Code` `IntelliJ` `Eclipse`
+`Rally` `JIRA` `Agile / SCRUM` `VS Code` `IntelliJ`
 
 ---
 ## 📖 Learning Resources & Courses
