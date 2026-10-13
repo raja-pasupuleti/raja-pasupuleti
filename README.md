@@ -31,6 +31,7 @@ I enjoy solving challenging technical problems, mentoring engineers, driving eng
 
 
 - LinkedIn: https://www.linkedin.com/in/raja-pasupuleti
+- Portfolio: https://raja-pasupuleti.github.io/
 ---
 
 ## 💼 Career Highlights
